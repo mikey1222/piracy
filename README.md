@@ -36,14 +36,10 @@ Hashcat is the self-proclaimed world’s fastest password recovery tool. Example
 
  (run in root account)
 
-     $ cd piracy
-     
-     $ chmod +x install.sh
-	
-     $ ./install.sh
-   
-     $ piracy
-     
+    $cdpiracy 
+    $chmodxinstall.sh 
+    $install.sh
+    $piracy
      
 > uninstaller
 
